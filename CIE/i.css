@@ -1,0 +1,22 @@
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 400;
+    color: brown;
+    text-align: center;
+}
+
+p
+{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-style:oblique;
+    font-weight: 200;
+    color:bisque;
+}
+
+main
+{
+    text-align: center;
+    padding: auto;
+}
